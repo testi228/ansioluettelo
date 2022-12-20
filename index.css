@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-  color: #00ff00;
+  color: blue;
 }
 
 p {
-  color: rgb(0,0,255);
+  color: blue;
 }
     </style>
   </head>
